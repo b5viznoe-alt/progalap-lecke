@@ -1,0 +1,41 @@
+body{
+    background-color: F0F0F0;
+}
+a:link{
+    color: #747474;
+}
+a:hover{
+    color: #747474;
+}
+a:active{
+    color: #747474;
+}
+a:visited{
+    color: #747474;
+}
+table{
+    border-collapse: collapse;
+    border: solid 2px black;
+    margin: 0 auto;
+    width: 1000px;
+}
+#bal{
+    width: 150px;
+}
+td, th{
+    padding: 2pt;
+    border-collapse: collapse;
+    border: solid 2px black;
+}
+#tr2>#bal{
+    background-color: #9BCE11;
+}
+h1{
+    text-align: center;
+}
+#rajz{
+    text-align: center;
+}
+.gyumolcs{
+    vertical-align: top;
+}

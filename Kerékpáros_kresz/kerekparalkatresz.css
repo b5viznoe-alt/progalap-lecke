@@ -1,0 +1,52 @@
+/*Main*/
+body{
+    background-color: #6E6E6E;
+    color: white;
+}
+
+/*Link*/
+a{
+    color: #FF5A09;
+}
+a:link{
+    color: #FF5A09;
+}
+a:active{
+    color: #FF5A09;
+}
+a:hover{
+    color: #FF5A09;
+}
+a:visited{
+    color: #FF5A09;
+}
+
+/*Table*/
+table{
+    margin: auto;
+    width: 1000px;
+    border-spacing: 5px;
+    background-color: white;
+    
+}
+th, td{
+    width: 50%;
+    margin: 5px;
+}
+#elso{
+    vertical-align: middle;
+    background-color: #F3843E;
+    text-align: center;
+}
+#ketto, #harom{
+    vertical-align: top;
+    background-color: #393939;
+}
+
+#kep{
+    float: right;
+}
+
+#cim{
+    text-align: center;
+}

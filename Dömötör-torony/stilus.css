@@ -1,0 +1,36 @@
+body{
+    background-color: #802B2B;
+    color: #FF9900;
+}
+a{
+    color: white;
+}
+hr{
+    width: 450px;
+    height: 3px;
+    margin: 0;
+    float: left;
+    border: 0;
+    background-color: #FF9900;
+}
+table{
+    width: 75%;
+    margin-right: auto;
+    border-spacing: 0;
+    padding: 30px;
+}
+#baltd{
+    width: 40%;
+}
+#jobbtd{
+    width: 60%;
+}
+#table2{
+    width: 400px;
+    height: 30px;
+    border: 2px solid white;
+    background-color: #FF9900;
+}
+#table2>td{
+    text-align: center;
+}
